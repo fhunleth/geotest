@@ -12,11 +12,205 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-		38.88101,-77.10428
-        ]
+        "coordinates": [-77.10428, 38.88101]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.61219,39.29038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.10026,38.98067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.27165,39.17316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "3",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.30637,38.84622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.32554,38.80095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.20137,39.14344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3861,38.96955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.06692,39.15316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.20859,39.01817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "2",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3411,38.96872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "3",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.15276,39.084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "2",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.02609,38.99067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "1",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4286,39.00622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "4",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.036667,38.895111]
+      }
     }
+    
   ]
 }
