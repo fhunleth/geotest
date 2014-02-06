@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "2",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		38.88101,-77.10428
+        ]
+      }
+    },
+    }
+  ]
+}
